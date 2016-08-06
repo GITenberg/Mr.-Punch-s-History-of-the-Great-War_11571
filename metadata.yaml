@@ -1,0 +1,29 @@
+_repo: Mr.-Punch-s-History-of-the-Great-War_11571
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Graves, Charles L. (Charles Larcom)
+    aliases:
+    - Graves, C. L. (Charles Larcom)
+    - Graves, Charles Larcom
+    birthdate: 1856
+    deathdate: 1944
+    gutenberg_agent_id: '5634'
+    url: http://www.gutenberg.org/2009/agents/5634
+description: A series of exerpts from Punch Magazine articles about World War I. Reprinted
+  in the United States by Frederick Stokes.
+gutenberg_bookshelf: World War I
+gutenberg_issued: '2004-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11571'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'D501'
+- !lcsh 'World War, 1914-1918 -- Caricatures and cartoons'
+- GITenberg
+title: Mr. Punch's History of the Great War
+url: http://www.gutenberg.org/ebooks/11571
